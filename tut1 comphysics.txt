@@ -1,0 +1,22 @@
+Q1
+
+ls-tr
+
+Q2
+
+head-25file.txt
+
+head-25 file.txt | tail-16
+
+Q3
+  man - f(name)
+
+
+Q4
+
+ Name :Senzo Hlongwane
+ Email : 210507488@stu.ukzn.ac.za
+ My Honours project : Quantum State Tomography.
+
+Things that i need to learn in this course is to write code to solve big problems in physics.
+
