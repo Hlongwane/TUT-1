@@ -6,7 +6,7 @@ Q2
 
 head-25file.txt
 
-head-25 file.txt | tail-16
+head-25 file.txt | tail-10
 
 Q3
   man - f(name)
